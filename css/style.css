@@ -1,0 +1,21 @@
+.margin {
+    margin-inline: 350px;
+}
+
+.sq-orange{
+    background-color: rgb(255, 187, 0);
+    width: 300px;
+    height: 40px;
+}
+
+h4 {
+    color: white;
+}
+
+.mp-box {
+    margin-inline: 30px;
+}
+
+.bg-cards {
+    background-color: blue;
+}
